@@ -1,6 +1,9 @@
 # Revisiting Facial Keypoint Detection – An Efficient Approach Using Deep Neural Networks
 
-### This paper was presented at Big DML Conference, 2021. [FKPD_BigDML_Submission-Final.pdf](https://github.com/sabeesh90/Imputation_vs_Augmentation_Facial_Key_Point_Detection/files/7785657/FKPD_BigDML_Submission-Final.pdf)
+### This paper was presented at Big DML Conference, 2021. [FKPD_BigDML_Submission-Final.pdf]
+https://arxiv.org/abs/2205.07121
+
+### 
 
 [BigDML_Paper96_FKPD_Final.pptx](https://github.com/sabeesh90/Imputation_vs_Augmentation_Facial_Key_Point_Detection/files/7914956/BigDML_Paper96_FKPD_Final.pptx)
 
