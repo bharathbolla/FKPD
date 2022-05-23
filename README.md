@@ -1,7 +1,7 @@
 # Revisiting Facial Keypoint Detection – An Efficient Approach Using Deep Neural Networks
 
 ### This paper was presented at Big DML Conference, 2021. [FKPD_BigDML_Submission-Final.pdf]
-([Revisiting Facial Keypoint Detection – An Efficient Approach Using Deep Neural Networks]) https://arxiv.org/abs/2205.07121
+[Revisiting Facial Keypoint Detection – An Efficient Approach Using Deep Neural Networks] (https://arxiv.org/abs/2205.07121)
 
 ### 
 
