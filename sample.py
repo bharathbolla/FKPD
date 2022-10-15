@@ -4,7 +4,8 @@ def square_num(mylist):
     print("This is my program")
     for num in mylist:
         for num in mylist:
-            total+=num**3
+            total+=num**4 +4
+
         
     return total
 
